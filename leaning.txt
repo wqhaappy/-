@@ -17,9 +17,4 @@ github：
       再次执行git remote add origin https://github.com/wqhaappy/wq_repository.git即可
  
 （二）删除仓库里的文件
-     1、首先进入你项目的存放位置
-     2、在空白区右键点击 Git Bash here 
-     3、查看当前目录：dir
-     4、删除需要删除的文件：git rm -f --cached+要删除的文件名称
-     5、填写描述信息：git commit -m '删除了XX文件'
-     6、将本次更改更新到github项目上去：git push -u origin master
+    
